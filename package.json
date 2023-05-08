@@ -1,15 +1,12 @@
 {
-  "name": "fp3-katas-01-javascript-basic",
+  "name": "katas-01-javascript-basic",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "type":"module",
   "scripts": {
-    "test": "jest"
+    "test": "node --test --watch --test-reporter spec"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  }
+  "license": "ISC"
 }
