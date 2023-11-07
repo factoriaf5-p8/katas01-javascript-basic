@@ -15,7 +15,7 @@ describe("Variables en JavaScript", () => {
         // Escribe aquí tu código para hacer pasar el "assert" del test
 
         assert.strictEqual(a, "Hello!");
-        assert.strictEqual(b, "Somos la P7");
+        assert.strictEqual(b, "Somos Coders!!");
     })
 
    it("Pueden contener numeros", () => {

@@ -4,8 +4,10 @@
   "description": "",
   "type":"module",
   "scripts": {
-    "test:basic": "node --test 01-variables.test.js",
-    "test": "node --test --watch --test-reporter spec"
+    "test:basic": "node --test ./01-variables.test.js",
+    "test:conditional": "node --test ./02-conditional.test.js",
+    "test:function": "node --test ./03-functions.test.js",
+    "test": "node --test --watch ./01-variables.test.js"
   },
   "keywords": [],
   "author": "",
