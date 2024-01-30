@@ -17,7 +17,6 @@ describe("Condicionales en JavaScript", () => {
         assert.strictEqual(result,"Lara tiene un nombre corto");
     })
 
-
     it("Completa el valor de la aserción", () => {
         let age = 21;
         let name = "Olga";
