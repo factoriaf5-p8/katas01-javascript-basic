@@ -13,7 +13,8 @@ describe("Variables en JavaScript", () => {
    it("Pueden contener strings", () => {
 
         // Escribe aquí tu código para hacer pasar el "assert" del test
-
+        let a = "Hello!";
+        let b = "Somos Coders!!";
         assert.strictEqual(a, "Hello!");
         assert.strictEqual(b, "Somos Coders!!");
     })
