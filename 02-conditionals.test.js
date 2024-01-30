@@ -14,7 +14,7 @@ describe("Condicionales en JavaScript", () => {
         }
 
         // Edita el assert (los "???") para que pase el test
-        assert.strictEqual(result,"???");
+        assert.strictEqual(result,"");
     })
 
 
