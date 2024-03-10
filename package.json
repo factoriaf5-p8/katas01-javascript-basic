@@ -10,6 +10,6 @@
     "test": "node --test --watch ./01-variables.test.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gabriel",
   "license": "ISC"
 }
